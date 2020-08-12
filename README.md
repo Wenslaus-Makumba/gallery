@@ -40,6 +40,4 @@ python3.8 manage.py migrate
 ## Support and contact details
 Contact [Wenslaus Makumba](makumbaw@gmail.com) for further help/support
 
-
-
 # gallery

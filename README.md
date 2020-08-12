@@ -8,7 +8,7 @@ https://github.com/Wenslaus-Makumba/gallery
 
 #### Link to live site
 
-https://afternoon-forest-43266.herokuapp.com/
+https://limitless-citadel-90847.herokuapp.com
 
 ## Setup and installations
 * Fork the data onto your own personal repository.
